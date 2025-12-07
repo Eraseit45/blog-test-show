@@ -19,21 +19,21 @@
       <link>https://eraseit45.github.io/blog-test-show/blog/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BA%A7%E5%88%AB%E7%9A%84%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82-ffmpeg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://eraseit45.github.io/blog-test-show/blog/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BA%A7%E5%88%AB%E7%9A%84%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82-ffmpeg/</guid>
-      <description>&lt;p&gt;&lt;code&gt;本站内容均来源于网络搬运，若有侵权会立刻删除&lt;/code&gt;&#xA;之前在老乡群里推荐过的轻量级格式工厂&amp;ndash;ffmpeg&#xA;虽然操作可能有点难，但是会用了绝对比现有的格式工厂之类的要强大很多&#xA;原有的文档可能太烂了些，下面附上ffmpeg的官网和我找到的比较好用的使用文档&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ffmpeg官网：&lt;a href=&#34;https://ffmpeg.org/&#34;&gt;ffmpeg官网&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ffmpeg食用教程：&lt;a href=&#34;https://wklchris.github.io/blog/FFmpeg/index.html&#34;&gt;ffmpeg食用教程&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;命令行级别的格式工厂ffmpeg&#34;&gt;命令行级别的格式工厂——ffmpeg&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;本站内容均来源于网络搬运，若有侵权会立刻删除&lt;/code&gt;&#xA;之前在老乡群里推荐过的轻量级格式工厂&amp;ndash;ffmpeg&#xA;虽然操作可能有点难，但是会用了绝对比现有的格式工厂之类的要强大很多&#xA;原有的文档可能太烂了些，下面附上ffmpeg的官网和我找到的比较好用的使用文档&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ffmpeg官网：&lt;a href=&#34;https://ffmpeg.org/&#34;&gt;ffmpeg官网&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ffmpeg食用教程：&lt;a href=&#34;https://wklchris.github.io/blog/FFmpeg/index.html&#34;&gt;ffmpeg食用教程&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://eraseit45.github.io/blog-test-show/blog/%E7%AE%80%E5%8D%95%E7%9A%84claude%E6%95%99%E7%A8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://eraseit45.github.io/blog-test-show/blog/%E7%AE%80%E5%8D%95%E7%9A%84claude%E6%95%99%E7%A8%8B/</guid>
-      <description>&lt;p&gt;&lt;code&gt;本站内容均来源于网络搬运，若有侵权会立刻删除&lt;/code&gt;&#xA;之前在群聊内推荐过的一个claude code教程&#xA;折腾这么久来看，有一个好的辅助ai还是必要的&#xA;对ai的使用不能局限于浏览器里的条条框框&#xA;&lt;a href=&#34;https://www.micu.wiki/t/topic/31&#34;&gt;claude code 教程&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;简单的claude教程&#34;&gt;简单的claude教程&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;本站内容均来源于网络搬运，若有侵权会立刻删除&lt;/code&gt;&#xA;之前在群聊内推荐过的一个claude code教程&#xA;折腾这么久来看，有一个好的辅助ai还是必要的&#xA;对ai的使用不能局限于浏览器里的条条框框&#xA;&lt;a href=&#34;https://www.micu.wiki/t/topic/31&#34;&gt;claude code 教程&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://eraseit45.github.io/blog-test-show/blog/%E8%83%9A%E8%83%8E%E9%83%BD%E8%83%BD%E6%87%82%E7%9A%84claude%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://eraseit45.github.io/blog-test-show/blog/%E8%83%9A%E8%83%8E%E9%83%BD%E8%83%BD%E6%87%82%E7%9A%84claude%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/</guid>
-      <description>&lt;p&gt;&lt;code&gt;本站内容均来源于网络搬运，若有侵权会立刻删除&lt;/code&gt;&#xA;之前那个cc配置内容可能一时半会看不懂&#xA;但是没关系，这里有更方便的轮椅♿♿♿&#xA;&lt;a href=&#34;https://github.com/UfoMiao/zcf&#34;&gt;一键式cc提示词工程配置脚本-zcf&lt;/a&gt;&#xA;还有一个之前没提到的东西，如果说感觉cc环境变量配置的很乱的话，可以试试这个&#xA;&lt;a href=&#34;https://github.com/farion1231/cc-switch&#34;&gt;cc switch:跨平台简易api管理应用&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;胚胎都能懂的claude提示词工程配置&#34;&gt;胚胎都能懂的claude提示词工程配置&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;本站内容均来源于网络搬运，若有侵权会立刻删除&lt;/code&gt;&#xA;之前那个cc配置内容可能一时半会看不懂&#xA;但是没关系，这里有更方便的轮椅♿♿♿&#xA;&lt;a href=&#34;https://github.com/UfoMiao/zcf&#34;&gt;一键式cc提示词工程配置脚本-zcf&lt;/a&gt;&#xA;还有一个之前没提到的东西，如果说感觉cc环境变量配置的很乱的话，可以试试这个&#xA;&lt;a href=&#34;https://github.com/farion1231/cc-switch&#34;&gt;cc switch:跨平台简易api管理应用&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

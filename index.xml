@@ -15,5 +15,12 @@
       <guid>https://eraseit45.github.io/blog-test-show/blog/first_post/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>https://eraseit45.github.io/blog-test-show/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eraseit45.github.io/blog-test-show/about/</guid>
+      <description>&lt;p&gt;说来惭愧，折腾这么久了才真的算是建立起了一个博客&#xA;这个博客仅用于测试，估计在寒假期间就会推倒重做，内容多半为随手搬运的东西，内容具有时效性，&#xA;仅供参考和看乐子。&#xA;拌匀内容若有侵权会立刻删除&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
